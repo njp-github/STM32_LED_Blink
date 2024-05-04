@@ -8,3 +8,4 @@ Use "HardwareSerial.h" library to activate USART2 and USART3.
 Installing STM32 Add-on in Arduino IDE - https://www.sgbotic.com/index.php?dispatch=pages.view&page_id=48
 
 Arduino IDE configurations (in the "Tools" menu):
+  - Debug symbols and core logs: "None"
