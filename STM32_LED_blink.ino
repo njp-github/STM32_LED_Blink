@@ -11,9 +11,9 @@ void setup() {
   
   // put your setup code here, to run once:
   
-  pinMode(LED1, OUTPUT);
-  pinMode(LED2, OUTPUT);
-  Serial3.begin(9600);
+  pinMode(LED1, OUTPUT); // Initialize LED1 as an o/p
+  pinMode(LED2, OUTPUT); // Initialize LED2 as an o/p
+  Serial3.begin(9600); // Initialze Serial3 (Serial Monitor)
 
 }
 
