@@ -9,3 +9,10 @@ Installing STM32 Add-on in Arduino IDE - https://www.sgbotic.com/index.php?dispa
 
 Arduino IDE configurations (in the "Tools" menu):
   - Debug symbols and core logs: "None"
+  - Optimize: "Smallest (-Os default)"
+  - Board part number: "BluePill F103C8"
+  - C Runtime Library: "Newlib Nano (default)"
+  - Upload method: "STM32CubeProgrammer (SWD)"
+  - USB support (if available): "None"
+  - U(S)ART support: "Enabled (generic 'Serial)"
+  - USB speed (if available): "Low/Full Speed"
