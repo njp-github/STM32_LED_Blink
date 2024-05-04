@@ -27,5 +27,3 @@ Arduino IDE configurations (in the "Tools" menu):
 1. Use the ST-LINK/V2 to upload program onto the board from the IDE (COM port grayed out in the "Tools" menu or "not connected" status for the board is normal)
 2. Remove the ST-LINK/V2 connection from the computer and use the TTL Adapter to connect to the Serial Monitor on the IDE (COM port and board status should now be visible)
 3. If both ST-LINK/V2 and TTL Adapter are connected to the computer at the same time, the IDE may default to using the TTL Adapter to upload the program and give an error
-
-
