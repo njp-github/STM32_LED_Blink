@@ -14,6 +14,7 @@ void setup() {
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
   Serial3.begin(9600);
+
 }
 
 void loop() {
@@ -33,4 +34,5 @@ void loop() {
   
   digitalWrite(LED2, LOW); // turn LED2 off by making the voltage LOW
   Serial3.print("LED2 - LOW\n");
+
 }
