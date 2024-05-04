@@ -8,7 +8,7 @@ Prerequisites:
   - STM32 Software Suite installed and configured
   - Arduino IDE
 
-STM32F103 Pinout - https://lh6.googleusercontent.com/wYhAmRIfTgBSWtNt7KT8db70NY2XtEbobHzeHcdPY3SFLKqqIdhgkFJfxikIP2G-J9E6-mFcK-SjpiPfQuUv9yWdaE79o6oB-nglBWmMOmzwL2evWBQ9_uPq08BurhDM0pPziF4
+**STM32F103** Pinout - https://lh6.googleusercontent.com/wYhAmRIfTgBSWtNt7KT8db70NY2XtEbobHzeHcdPY3SFLKqqIdhgkFJfxikIP2G-J9E6-mFcK-SjpiPfQuUv9yWdaE79o6oB-nglBWmMOmzwL2evWBQ9_uPq08BurhDM0pPziF4
 
 Use "HardwareSerial.h" library to activate USART2 and USART3. USART1 is activated by default.
 
